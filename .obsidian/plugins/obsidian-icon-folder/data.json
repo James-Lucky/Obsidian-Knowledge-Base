@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiVoicemail",
-      "LiPersonStanding",
-      "LiGlobe",
-      "LiCodeSquare",
-      "LiWashingMachine"
+      "LiArchive",
+      "LiGamepad",
+      "LiPen",
+      "LiBriefcaseBusiness",
+      "LiAward"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,13 @@
   "09. Design": "LiBrush",
   "10. Tools": "LiWashingMachine",
   "11. Research": "LiGlobe",
-  "12. Professional Skills": "LiPersonStanding"
+  "12. Professional Skills": "LiAward",
+  "13. Humanities": "LiPersonStanding",
+  "14. Science": "LiExperiment",
+  "15. Technology": "LiLaptopMinimal",
+  "16. Career": "LiGraduationCap",
+  "18. Business": "LiBriefcaseBusiness",
+  "19. Mathematics": "LiPen",
+  "20. Game Development": "LiGamepad",
+  "99. Archive": "LiArchive"
 }

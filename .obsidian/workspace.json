@@ -11,17 +11,14 @@
             "id": "1b5b693cab3f65e2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas.canvas",
-                "viewState": {
-                  "x": -72.5,
-                  "y": -492.67892871183494,
-                  "zoom": 0
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -185,7 +182,11 @@
   },
   "active": "1b5b693cab3f65e2",
   "lastOpenFiles": [
+    "99. Archive/Untitled 5.md",
     "Untitled.md",
+    "99. Archive/Untitled 4.md",
+    "99. Archive/Untitled 2.md",
+    "99. Archive/Untitled 1.md",
     "Canvas.canvas",
     "7. Research Paper/Ai in Software Engineering/Refrences/2301.06523v1.pdf",
     "7. Research Paper/Ai in Software Engineering/Refrences/2108.09293v3.pdf",
@@ -204,13 +205,10 @@
     "00. Checklist & Roadmaps/2D Animation.md",
     "12. Professional Skills/Languages/English/📖 Word Bank.md",
     "04. Development/1. Basics/Comment Styles.md",
-    "99. Archive/Untitled 4.md",
-    "99. Archive/Untitled 2.md",
     "01. Software Engineering/Debugging Tips/Debugging Checklist.md",
     "99. Archive/Compliment.md",
     "03. Core CS/Data Structures/Data Structure Basic.md",
     "03. Core CS/Data Structures/Array.md",
-    "99. Archive/Untitled 1.md",
     "Recording 20260623155520.m4a.md",
     "00. Checklist & Roadmaps/Tools.md",
     "08. AI & ML/Prompt Enginerring.md",
