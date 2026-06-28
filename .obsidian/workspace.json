@@ -174,13 +174,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b5b693cab3f65e2",
+  "active": "b8fd4212b71bac2c",
   "lastOpenFiles": [
     "99. Archive/Untitled 5.md",
     "Untitled.md",
