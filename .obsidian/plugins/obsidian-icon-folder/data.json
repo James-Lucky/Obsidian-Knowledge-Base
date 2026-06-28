@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiVoicemail",
+      "LiPersonStanding",
+      "LiGlobe",
+      "LiCodeSquare",
+      "LiWashingMachine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00. Checklist & Roadmaps": "LiGoal",
+  "01. Software Engineering": "LiAppWindowMac",
+  "02. Programming Languages": "LiCodeSquare",
+  "03. Core CS": "LiComputer",
+  "04. Development": "LiScreenShare",
+  "05. Database": "LiDatabase",
+  "06. DevOps & Cloud": "LiCloud",
+  "07. Cybersecurity": "LiGlobeLock",
+  "08. AI & ML": "LiStars",
+  "09. Design": "LiBrush",
+  "10. Tools": "LiWashingMachine",
+  "11. Research": "LiGlobe",
+  "12. Professional Skills": "LiPersonStanding"
+}

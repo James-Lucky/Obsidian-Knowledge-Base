@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "a8b162d6de3ea614",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec993f91c6764b96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b5b693cab3f65e2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": -72.5,
+                  "y": -492.67892871183494,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85197511520235c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a4f4c8c075849a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8fd4212b71bac2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "231f884c93801934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d13bbd015682c7a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5049018859863
+  },
+  "right": {
+    "id": "25eb327458fe0af4",
+    "type": "split",
+    "children": [
+      {
+        "id": "979b0f88bc8c2346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a6eba3fd432a62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99. Archive/Untitled 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 4"
+            }
+          },
+          {
+            "id": "d2008aadbc3091c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99. Archive/Untitled 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 4"
+            }
+          },
+          {
+            "id": "5e92b20a771ae7f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2f9f03d333da4dd6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "838b0378c039dea0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99. Archive/Untitled 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b5b693cab3f65e2",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Canvas.canvas",
+    "7. Research Paper/Ai in Software Engineering/Refrences/2301.06523v1.pdf",
+    "7. Research Paper/Ai in Software Engineering/Refrences/2108.09293v3.pdf",
+    "7. Research Paper/Ai in Software Engineering/Refrences/2107.03374v2.pdf",
+    "7. Research Paper/Ai in Software Engineering/Refrences/1706.03762v7.pdf",
+    "7. Research Paper/Ai in Software Engineering/Paper.docx",
+    "7. Research Paper/Ai in Software Engineering/Synopsis.docx",
+    "7. Research Paper/Ai in Software Engineering/Refrences",
+    "7. Research Paper/Ai in Software Engineering",
+    "7. Research Paper/2406.06578v1.pdf",
+    "7. Research Paper/1st Research Paper.pdf",
+    "00. Checklist & Roadmaps/English Mastery.md",
+    "00. Checklist & Roadmaps/English Checklist.md",
+    "00. Checklist & Roadmaps/Career & Technology.md",
+    "00. Checklist & Roadmaps/6-Month SWE Placement Strategy.md",
+    "00. Checklist & Roadmaps/2D Animation.md",
+    "12. Professional Skills/Languages/English/📖 Word Bank.md",
+    "04. Development/1. Basics/Comment Styles.md",
+    "99. Archive/Untitled 4.md",
+    "99. Archive/Untitled 2.md",
+    "01. Software Engineering/Debugging Tips/Debugging Checklist.md",
+    "99. Archive/Compliment.md",
+    "03. Core CS/Data Structures/Data Structure Basic.md",
+    "03. Core CS/Data Structures/Array.md",
+    "99. Archive/Untitled 1.md",
+    "Recording 20260623155520.m4a.md",
+    "00. Checklist & Roadmaps/Tools.md",
+    "08. AI & ML/Prompt Enginerring.md",
+    "00. Checklist & Roadmaps/Placement & Interview Prep Roadmap.md",
+    "00. Checklist & Roadmaps/SDE Placement Preparation.md",
+    "00. Checklist & Roadmaps/Full-Stack Web Development.md",
+    "Data Structures.md",
+    "Data Structures and Algorithms.md",
+    "Data Structu[[Data Structures and Algorithms.md",
+    "00. Checklist & Roadmaps/UI&UX.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "03. Core CS/Data Structures/Flow Chart.canvas",
+    "09. Design/Canvas.canvas",
+    "Pasted image 20260525181357.png",
+    "Pasted image 20260525171650.png",
+    "Cyber Security/Untitled.canvas"
+  ]
+}

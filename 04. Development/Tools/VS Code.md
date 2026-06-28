@@ -1,0 +1,15 @@
+1. Ctrl + space = show suggestion
+2. Ctrl + / = Comment
+3. Ctrl + p = search bar
+4. Ctrl + shift + l = multi cursor selection
+5. Ctrl + b = toggle the side bar
+6. Ctrl + d = one by one selection
+7. Alt + up/down = move line
+8. Ctrl + o = to open the current file
+9. Ctrl + shift + e = move to explorer window
+10. Ctrl + x = delete line
+11. Shift + alt + up/down = copy paste
+12. Ctrl + j = open bottom panel
+13. Ctrl + shift + = fold or unfold code
+14. Ctrl + , = open setting
+15. Shift + alt + f = organize the entire file
