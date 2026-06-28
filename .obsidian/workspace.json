@@ -10,9 +10,11 @@
           {
             "id": "1b5b693cab3f65e2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
