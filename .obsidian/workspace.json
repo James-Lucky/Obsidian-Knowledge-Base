@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Checklist & Roadmaps/Placement & Interview Prep Roadmap.md",
+                "file": "00. Checklist & Roadmaps/SDE Placement Preparation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Placement & Interview Prep Roadmap"
+              "title": "SDE Placement Preparation"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "1b5b693cab3f65e2",
   "lastOpenFiles": [
+    "00. Checklist & Roadmaps/Placement & Interview Prep Roadmap.md",
     "Untitled.md",
     "99. Archive/Untitled 5.md",
     "99. Archive/Untitled 4.md",
@@ -213,7 +214,6 @@
     "Recording 20260623155520.m4a.md",
     "00. Checklist & Roadmaps/Tools.md",
     "08. AI & ML/Prompt Enginerring.md",
-    "00. Checklist & Roadmaps/Placement & Interview Prep Roadmap.md",
     "00. Checklist & Roadmaps/SDE Placement Preparation.md",
     "00. Checklist & Roadmaps/Full-Stack Web Development.md",
     "Data Structures.md",
