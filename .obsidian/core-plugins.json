@@ -16,7 +16,7 @@
   "command-palette": true,
   "slash-command": true,
   "editor-status": true,
-  "bookmarks": true,
+  "bookmarks": false,
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
@@ -27,7 +27,7 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
-  "sync": true,
+  "sync": false,
   "bases": false,
   "webviewer": true
 }

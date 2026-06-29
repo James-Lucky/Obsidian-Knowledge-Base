@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "",
+  "accentColor": "#4fb589",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "nativeMenus": false,
   "showRibbon": false,
