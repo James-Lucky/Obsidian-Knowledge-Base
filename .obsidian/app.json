@@ -14,5 +14,6 @@
   "strictLineBreaks": false,
   "foldHeading": true,
   "showLineNumber": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "attachmentFolderPath": "21. Resources/Images"
 }
