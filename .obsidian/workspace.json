@@ -23,14 +23,17 @@
             "id": "160cb76885a8cf2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "18. Business/ENTREPRENEURSHIP.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -93.00000173905323,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "ENTREPRENEURSHIP"
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas"
             }
           }
         ],
@@ -187,8 +190,9 @@
   },
   "active": "160cb76885a8cf2b",
   "lastOpenFiles": [
-    "18. Business/Startup/How to Build a SaaS Product.md",
+    "03. Core CS/Data Structures/Time Complexity.md",
     "18. Business/ENTREPRENEURSHIP.md",
+    "18. Business/Startup/How to Build a SaaS Product.md",
     "20. Game Development/Untitled.md",
     "18. Business/Startup",
     "20. Game Development/Ideas.md",
@@ -196,7 +200,6 @@
     "04. Development/Frontend/HTML/Untitled.md",
     "21. Resources/Images/semantic-tags.png",
     "04. Development/Frontend/HTML/Email Tags.md",
-    "03. Core CS/Data Structures/Time Complexity.md",
     "21. Resources/Images",
     "21. Resources",
     "03. Core CS/Data Structures/Flow Chart.canvas",
