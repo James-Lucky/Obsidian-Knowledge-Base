@@ -23,17 +23,14 @@
             "id": "160cb76885a8cf2b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -93.00000173905323,
-                  "zoom": 0
-                }
+                "file": "02. Programming Languages/TypeScript/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -190,6 +187,9 @@
   },
   "active": "160cb76885a8cf2b",
   "lastOpenFiles": [
+    "Canvas.canvas",
+    "02. Programming Languages/TypeScript/Untitled.md",
+    "Story telling",
     "03. Core CS/Data Structures/Time Complexity.md",
     "18. Business/ENTREPRENEURSHIP.md",
     "18. Business/Startup/How to Build a SaaS Product.md",
@@ -222,14 +222,10 @@
     "13. Humanities/Political Science/Types of Government.md",
     "00. Checklist & Roadmaps/SDE Placement Preparation.md",
     "00. Checklist & Roadmaps/Placement & Interview Prep Roadmap.md",
-    "99. Archive/Untitled 5.md",
-    "99. Archive/Untitled 4.md",
-    "Canvas.canvas",
     "7. Research Paper/Ai in Software Engineering/Refrences/2301.06523v1.pdf",
     "7. Research Paper/Ai in Software Engineering/Refrences/2108.09293v3.pdf",
     "7. Research Paper/Ai in Software Engineering/Refrences/2107.03374v2.pdf",
     "7. Research Paper/Ai in Software Engineering/Refrences/1706.03762v7.pdf",
-    "7. Research Paper/Ai in Software Engineering/Paper.docx",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "09. Design/Canvas.canvas",
