@@ -280,13 +280,14 @@ stay out of my business- mere kam se dur raho
 
 i already know everything-mujhe sab pata hai 
 
-|Trigger|Common cause|
-|---|---|
-|Feeling rejection|Comparing yourself to others, criticism, job/internship rejection|
-|Overstimulation|Too much information, social media, notifications, multitasking|
-|Task paralysis|Tasks are too large or too many competing priorities|
-|Loss of control|Unexpected changes, uncertainty, plans breaking|
-|Unmet expectations|Setting unrealistic standards or timelines|
-|FOMO|Constant comparison online|
-|Perceived injustice|Feeling others have unfair advantages|
-|Shame triggers|Past failures, perfectionism, harsh self-judgment|
+| Trigger             | Common cause                                                                                  |
+| ------------------- | --------------------------------------------------------------------------------------------- |
+| Feeling rejection   | Comparing yourself to others, criticism, job/internship rejection                             |
+| Overstimulation     | Too much information, social media, notifications, multitasking                               |
+| Task paralysis      | Tasks are too large or too many competing priorities                                          |
+| Loss of control     | Unexpected changes, uncertainty, plans breaking                                               |
+| Unmet expectations  | Setting unrealistic standards or timelines                                                    |
+| FOMO                | Constant comparison online                                                                    |
+| Perceived injustice | Feeling others have unfair advantages                                                         |
+| Shame triggers      | Past failures, perfectionism, harsh self-judgment                                             |
+| Autonomy            | The right of a person, an organization, a region, etc. to govern or control their own affairs |
