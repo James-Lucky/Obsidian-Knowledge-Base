@@ -291,3 +291,13 @@ i already know everything-mujhe sab pata hai
 | Perceived injustice | Feeling others have unfair advantages                                                         |
 | Shame triggers      | Past failures, perfectionism, harsh self-judgment                                             |
 | Autonomy            | The right of a person, an organization, a region, etc. to govern or control their own affairs |
+| English Word        | Hindi Meaning                                                                                 |
+| Deliberately        | जानबूझकर                                                                                      |
+| Offensive           | अपमानजनक                                                                                      |
+| Notoriety           | बदनामी                                                                                        |
+| Sycophant           | चापलूस                                                                                        |
+| Aggressive          | आक्रामक                                                                                       |
+| Mercenary           | स्वार्थी                                                                                      |
+| Arrogance           | अहंकार                                                                                        |
+| Moron               | मंदबुद्धि व्यक्ति                                                                             |
+| Miser               | कंजूस                                                                                         |
