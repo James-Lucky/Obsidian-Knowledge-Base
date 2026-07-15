@@ -76,3 +76,5 @@
 | Sparsa Ai                        | https://sparsa-ai.com/                                                               |                         |                                    | ☐      |
 | Automation Anyware               | https://www.automationanywhere.com/                                                  |                         |                                    | ☐      |
 | Sama                             | https://www.sama.com/                                                                |                         |                                    |        |
+| Up Partners                      | https://up.partners/                                                                 |                         |                                    |        |
+| Deccan Experts                   | https://deccanexperts.ai/                                                            |                         |                                    |        |
