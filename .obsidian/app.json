@@ -15,5 +15,6 @@
   "foldHeading": true,
   "showLineNumber": false,
   "showInlineTitle": true,
-  "attachmentFolderPath": "21. Resources/Images"
+  "attachmentFolderPath": "21. Resources/Images",
+  "alwaysUpdateLinks": true
 }

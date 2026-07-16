@@ -1,5 +1,6 @@
 ---
 tags:
   - dsa
-created: 2026-07-15
+created:
+title:
 ---
