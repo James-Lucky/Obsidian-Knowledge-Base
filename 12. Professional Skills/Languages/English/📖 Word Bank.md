@@ -301,3 +301,5 @@ i already know everything-mujhe sab pata hai
 | Arrogance           | अहंकार                                                                                        |
 | Moron               | मंदबुद्धि व्यक्ति                                                                             |
 | Miser               | कंजूस                                                                                         |
+[[Political Terms]]
+[[Philosophical Terms]]

@@ -78,3 +78,4 @@
 | Sama                             | https://www.sama.com/                                                                |                         |                                    |        |
 | Up Partners                      | https://up.partners/                                                                 |                         |                                    |        |
 | Deccan Experts                   | https://deccanexperts.ai/                                                            |                         |                                    |        |
+| Cloud Sek                        |                                                                                      |                         |                                    |        |

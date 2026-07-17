@@ -1,5 +1,3 @@
-# Hackathon Strategy
-
 ## Focus Rule (Don't Overcommit)
 
 You can realistically prepare deeply for **3–4 major hackathons per year**, not all of them.

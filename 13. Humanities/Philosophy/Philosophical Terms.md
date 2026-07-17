@@ -1,0 +1,20 @@
+- **Philosophy** — Study of knowledge, reality, existence, and values.
+- **Moral Ontology** — Study of whether moral facts objectively exist.
+- **Moral Astrology** — _Not a recognized philosophical term._
+- **Human Construct** — A concept created by humans.
+- **Social Construct** — A concept created and maintained by society.
+- **Divine Command Theory** — Morality is determined by God's commands.
+- **Objective Morality** — Morality exists independently of human opinions.
+- **Constructed Morality** — Morality is created by individuals or societies.
+- **Teleological Ethics** — Judging actions by their consequences or outcomes.
+- **Internal Tension** — Contradictions within a belief system or argument.
+- **Core Belief** — A fundamental belief that shapes a person's worldview.
+- **Sufficiency Problem** — An explanation or evidence is inadequate to support a claim.
+- **Circular Reasoning** — Using the conclusion as evidence for itself.
+- **Cooperation** — Working together toward a common goal.
+- **Ad Hoc** — A temporary or specially created explanation/solution.
+- **Incentive Behavior** — Behavior influenced by rewards or punishments.
+- **Unsound Argument** — An argument with invalid logic or false premises.
+- **Ontological** — Related to the nature of existence or being.
+- **False Premise** — An argument based on an incorrect assumption.
+- **Garbage In, Garbage Out (GIGO)** — Incorrect input leads to incorrect output.
